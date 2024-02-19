@@ -29,7 +29,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "SDE at TTL"
+            text: "SDE at ata Technologies"
         },
         {
             emoji: "📧",
