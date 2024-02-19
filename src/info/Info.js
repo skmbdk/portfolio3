@@ -65,7 +65,7 @@ export const info = {
 
 
     ],
-    bio: "Hello! subham. I'm a sde for TTL. I studied cse at ITER, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! subham. I'm a sde for Tata Technologies. I studied cse at SOA university, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
