@@ -2,8 +2,10 @@ import self from "../img/CEyOecbdCmDEEKEuAc4hA-transformed.png"
 import mock1 from "../img/smartmockups_lssq64dm.png"
 import mock2 from "../img/razorpay clone.png"
 import mock3 from "../img/smartmockups_lssqcwu2.png"
-import mock4 from "../img/smartmockups_lssr0wwl.png"
+// import mock4 from "../img/smartmockups_lssr0wwl.png"
+import mock4 from "../img/smartmockups_lstzxmjo.png"
 import mock5 from "../img/smartmockups_lssql7jq.png"
+
 
 
 
@@ -16,7 +18,8 @@ export const info = {
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Front-end Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
-    gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
+    gradient: `-webkit-linear-gradient(135deg, ${colors})`,
+     // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
@@ -65,7 +68,7 @@ export const info = {
 
 
     ],
-    bio: "Hello! subham. I'm a sde for Tata Technologies. I studied cse at SOA university, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! subham. I'm a sde for TTL. I studied cse at ITER, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
@@ -111,8 +114,8 @@ export const info = {
         },
         {
             title: "Project 4",
-            live: "https://discordclonebyrammy.netlify.app/",
-            source: "https://github.com/skmbdk/discordclone",
+            live: "https://3dwebpage.vercel.app",
+            source: "https://github.com/skmbdk/3dwebpage",
             image: mock4
         },
        
